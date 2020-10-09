@@ -1,0 +1,54 @@
+Fases de la luna 2020
+Fase	Fecha	Hora	Distancia
+Cuarto creciente	3 enero 2020	05:46:52	404.720 km
+Luna llena	10 enero 2020	20:23:14	375.551 km
+Cuarto menguante	17 enero 2020	14:00:35	365.446 km
+Luna nueva	24 enero 2020	22:44:11	395.643 km
+Cuarto creciente	2 febrero 2020	02:43:28	399.638 km
+Luna llena	9 febrero 2020	08:34:35	368.086 km
+Cuarto menguante	15 febrero 2020	23:19:09	371.193 km
+Luna nueva	23 febrero 2020	16:33:44	402.659 km
+Cuarto creciente	2 marzo 2020	20:58:38	391.152 km
+Luna llena
+(Superluna)	9 marzo 2020	18:48:35	363.972 km
+Cuarto menguante	16 marzo 2020	10:35:39	379.654 km
+Luna nueva	24 marzo 2020	10:29:36	405.482 km
+Cuarto creciente	1 abril 2020	12:21:52	381.507 km
+Luna llena
+(Superluna)	8 abril 2020	04:35:36	363.595 km
+Cuarto menguante	15 abril 2020	00:56:57	389.226 km
+Luna nueva	23 abril 2020	04:27:00	403.628 km
+Cuarto creciente	30 abril 2020	22:38:44	372.866 km
+Luna llena	7 mayo 2020	12:45:35	366.824 km
+Cuarto menguante	14 mayo 2020	16:03:18	397.862 km
+Luna nueva	22 mayo 2020	19:39:49	397.706 km
+Cuarto creciente	30 mayo 2020	05:30:22	366.659 km
+Luna llena	5 junio 2020	21:12:43	373.171 km
+Cuarto menguante	13 junio 2020	08:24:59	403.686 km
+Luna nueva	21 junio 2020	08:42:16	389.168 km
+Cuarto creciente	28 junio 2020	10:16:30	363.582 km
+Luna llena	5 julio 2020	06:44:57	381.705 km
+Cuarto menguante	13 julio 2020	01:31:28	405.486 km
+Luna nueva	20 julio 2020	19:33:36	379.915 km
+Cuarto creciente	27 julio 2020	14:33:47	363.906 km
+Luna llena	3 agosto 2020	17:59:38	390.962 km
+Cuarto menguante	11 agosto 2020	18:47:48	402.869 km
+Luna nueva	19 agosto 2020	04:42:15	371.739 km
+Cuarto creciente	25 agosto 2020	19:59:11	367.644 km
+Luna llena	2 septiembre 2020	07:23:12	399.109 km
+Cuarto menguante	10 septiembre 2020	11:28:18	396.329 km
+Luna nueva	17 septiembre 2020	13:00:59	365.948 km
+Cuarto creciente	24 septiembre 2020	03:56:34	374.481 km
+Luna llena	1 octubre 2020	23:06:55	404.339 km
+Cuarto menguante	10 octubre 2020	02:41:24	387.283 km
+Luna nueva	16 octubre 2020	21:32:14	363.376 km
+Cuarto creciente	23 octubre 2020	15:24:17	383.528 km
+Luna llena	31 octubre 2020	15:51:29	405.290 km
+Cuarto menguante	8 noviembre 2020	14:47:38	377.767 km
+Luna nueva	15 noviembre 2020	06:08:54	364.518 km
+Cuarto creciente	22 noviembre 2020	05:45:54	393.127 km
+Luna llena	30 noviembre 2020	10:32:04	401.475 km
+Cuarto menguante	8 diciembre 2020	01:37:59	369.764 km
+Luna nueva	14 diciembre 2020	17:18:45	369.453 km
+Cuarto creciente	22 diciembre 2020	00:42:31	401.055 km
+Luna llena	30 diciembre 2020	04:30:24	393.694 km

@@ -1,0 +1,53 @@
+Fases de la luna 2021
+Fase	Fecha	Hora	Distancia
+Cuarto menguante	6 enero 2021	10:38:35	364.700 km
+Luna nueva	13 enero 2021	06:02:37	377.530 km
+Cuarto creciente	20 enero 2021	22:03:35	405.203 km
+Luna llena	28 enero 2021	20:18:35	383.977 km
+Cuarto menguante	4 febrero 2021	18:38:42	363.344 km
+Luna nueva	11 febrero 2021	20:08:11	387.210 km
+Cuarto creciente	19 febrero 2021	19:49:06	404.411 km
+Luna llena	27 febrero 2021	09:19:36	374.706 km
+Cuarto menguante	6 marzo 2021	02:32:00	365.863 km
+Luna nueva	13 marzo 2021	11:23:32	396.377 km
+Cuarto creciente	21 marzo 2021	15:41:46	398.986 km
+Luna llena	28 marzo 2021	20:50:04	367.679 km
+Cuarto menguante	4 abril 2021	12:04:12	371.822 km
+Luna nueva	12 abril 2021	04:32:56	402.957 km
+Cuarto creciente	20 abril 2021	09:00:01	390.539 km
+Luna llena
+(Superluna)	27 abril 2021	05:33:04	363.869 km
+Cuarto menguante	3 mayo 2021	21:51:43	380.195 km
+Luna nueva	11 mayo 2021	21:01:33	405.497 km
+Cuarto creciente	19 mayo 2021	21:13:13	381.202 km
+Luna llena
+(Superluna)	26 mayo 2021	13:14:51	363.645 km
+Cuarto menguante	2 junio 2021	09:26:04	389.479 km
+Luna nueva	10 junio 2021	12:54:05	403.519 km
+Cuarto creciente	18 junio 2021	05:54:44	372.820 km
+Luna llena	24 junio 2021	20:40:14	366.936 km
+Cuarto menguante	1 julio 2021	23:12:39	397.899 km
+Luna nueva	10 julio 2021	03:17:43	397.590 km
+Cuarto creciente	17 julio 2021	12:11:37	366.674 km
+Luna llena	24 julio 2021	04:37:27	373.276 km
+Cuarto menguante	31 julio 2021	15:18:16	403.691 km
+Luna nueva	8 agosto 2021	15:50:46	389.108 km
+Cuarto creciente	15 agosto 2021	17:21:04	363.574 km
+Luna llena	22 agosto 2021	14:02:15	381.785 km
+Cuarto menguante	30 agosto 2021	09:15:02	405.479 km
+Luna nueva	7 septiembre 2021	02:52:01	379.856 km
+Cuarto creciente	13 septiembre 2021	22:41:20	363.961 km
+Luna llena	21 septiembre 2021	01:54:44	391.109 km
+Cuarto menguante	29 septiembre 2021	03:58:24	402.691 km
+Luna nueva	6 octubre 2021	13:05:44	371.570 km
+Cuarto creciente	13 octubre 2021	05:27:35	367.910 km
+Luna llena	20 octubre 2021	16:57:41	399.395 km
+Cuarto menguante	28 octubre 2021	22:06:44	395.849 km
+Luna nueva	4 noviembre 2021	22:15:26	365.707 km
+Cuarto creciente	11 noviembre 2021	13:48:22	375.040 km
+Luna llena	19 noviembre 2021	09:59:41	404.574 km
+Cuarto menguante	27 noviembre 2021	13:29:51	386.540 km
+Luna nueva	4 diciembre 2021	08:44:30	363.321 km
+Cuarto creciente	11 diciembre 2021	02:37:32	384.336 km
+Luna llena	19 diciembre 2021	05:37:58	405.114 km
+Cuarto menguante	27 diciembre 2021	03:26:00	376.932 km
