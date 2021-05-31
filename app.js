@@ -11,7 +11,7 @@ let astroData = {
   moon: {}
 };
 const server = 'http://127.0.0.1:5500'
-const dataFile = `../txt2JSON/json/astroData.json`
+const dataFile = `./astroData.json`
 let jsonFile = `./json/data-${(new Date).toJSON()}.json`
 let config = {
   /**
