@@ -1,0 +1,53 @@
+Fases de la luna 2022
+Luna nueva	2 enero 2022	19:35:49	364.891 km
+Cuarto creciente	9 enero 2022	19:13:20	394.006 km
+Luna llena	18 enero 2022	00:51:09	400.779 km
+Cuarto menguante	25 enero 2022	14:42:58	369.074 km
+Luna nueva	1 febrero 2022	06:49:10	370.202 km
+Cuarto creciente	8 febrero 2022	14:51:53	401.695 km
+Luna llena	16 febrero 2022	17:59:41	392.775 km
+Cuarto menguante	23 febrero 2022	23:34:32	364.369 km
+Luna nueva	2 marzo 2022	18:38:16	378.360 km
+Cuarto creciente	10 marzo 2022	11:46:24	405.349 km
+Luna llena	18 marzo 2022	08:20:37	383.194 km
+Cuarto menguante	25 marzo 2022	06:39:24	363.416 km
+Luna nueva	1 abril 2022	08:27:39	387.872 km
+Cuarto creciente	9 abril 2022	08:48:25	404.156 km
+Luna llena	16 abril 2022	20:57:32	374.196 km
+Cuarto menguante	23 abril 2022	13:58:14	366.149 km
+Luna nueva	30 abril 2022	22:30:44	396.783 km
+Cuarto creciente	9 mayo 2022	02:22:13	398.682 km
+Luna llena	16 mayo 2022	06:15:52	367.425 km
+Cuarto menguante	22 mayo 2022	20:44:34	372.054 km
+Luna nueva	30 mayo 2022	13:32:11	403.117 km
+Cuarto creciente	7 junio 2022	16:49:12	390.407 km
+Luna llena
+(Superluna)	14 junio 2022	13:52:37	363.808 km
+Cuarto menguante	21 junio 2022	05:11:53	380.266 km
+Luna nueva	29 junio 2022	04:53:25	405.501 km
+Cuarto creciente	7 julio 2022	04:14:56	381.171 km
+Luna llena
+(Superluna)	13 julio 2022	20:38:06	363.666 km
+Cuarto menguante	20 julio 2022	16:19:23	389.491 km
+Luna nueva	28 julio 2022	19:55:26	403.502 km
+Cuarto creciente	5 agosto 2022	13:07:31	372.753 km
+Luna llena	12 agosto 2022	03:36:03	366.945 km
+Cuarto menguante	19 agosto 2022	06:36:34	397.977 km
+Luna nueva	27 agosto 2022	10:16:55	397.579 km
+Cuarto creciente	3 septiembre 2022	20:08:50	366.564 km
+Luna llena	10 septiembre 2022	11:58:51	373.330 km
+Cuarto menguante	17 septiembre 2022	23:52:17	403.800 km
+Luna nueva	25 septiembre 2022	23:54:04	388.940 km
+Cuarto creciente	3 octubre 2022	02:15:26	363.521 km
+Luna llena	9 octubre 2022	22:54:41	382.085 km
+Cuarto menguante	17 octubre 2022	19:16:03	405.451 km
+Luna nueva	25 octubre 2022	12:48:20	379.392 km
+Cuarto creciente	1 noviembre 2022	07:38:53	364.088 km
+Luna llena	8 noviembre 2022	12:02:46	391.737 km
+Cuarto menguante	16 noviembre 2022	14:29:29	402.344 km
+Luna nueva	23 noviembre 2022	23:57:21	370.950 km
+Cuarto creciente	30 noviembre 2022	15:38:32	368.332 km
+Luna llena	8 diciembre 2022	05:09:48	400.070 km
+Cuarto menguante	16 diciembre 2022	09:59:27	395.090 km
+Luna nueva	23 diciembre 2022	11:17:56	365.276 km
+Cuarto creciente	30 diciembre 2022	02:22:34	375.831 km
